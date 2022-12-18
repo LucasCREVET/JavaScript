@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.lightmode{
+    background-color: white;
+    color: black;
+}
+.darkmode{
+    background-color: black;
+    color: white;
+}
+.green{
+    color: green;
+}
+.red{
+    color : red;
+}
+header{
+    height: 150px;
+    background-color: red;
+}
+footer{
+    height: 150px;
+    background-color: grey;
+}
